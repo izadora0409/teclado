@@ -1,0 +1,17 @@
+:root {
+     --rosa: #f18cca;
+     --preto: #040404;
+     --roxo: #ba1eee;
+     --azul: #45bdb5;
+     --luz: rgb(93,89,89);
+
+}
+body{ 
+    align-items: center;
+ background:var(--preto);
+ display: flex;
+ justify-content: center;
+flex-direction: column;
+min-height: 100vh;
+
+}
